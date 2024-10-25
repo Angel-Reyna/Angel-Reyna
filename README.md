@@ -39,4 +39,4 @@ I'm currently looking for opportunities. I love to learn and contribute in any a
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 🌱 &nbsp; I’m currently Learning more about.  
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
