@@ -43,6 +43,4 @@ I'm currently looking for opportunities. I love to learn and contribute in any a
   [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
   
-🌱 &nbsp; I’m currently Learning more about. 
-
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+🌱 &nbsp; I’m always in the process of learning to expand my knowledge.
